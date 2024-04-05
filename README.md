@@ -34,7 +34,7 @@ This is my ([Zhakshylyk Nurlanov](https://nurlanov.me/)) curated collection of p
 
 ### Jailbreak benchmarks
 
-- ****[JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318).** *Patrick Chao, Edoardo Debenedetti, Alexander Robey, Maksym Andriushchenko, Francesco Croce, Vikash Sehwag, Edgar Dobriban, Nicolas Flammarion, George J. Pappas, Florian Tramer, Hamed Hassani, Eric Wong.* Mar 2024.
+- ****[JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models.](https://arxiv.org/abs/2404.01318)** *Patrick Chao, Edoardo Debenedetti, Alexander Robey, Maksym Andriushchenko, Francesco Croce, Vikash Sehwag, Edgar Dobriban, Nicolas Flammarion, George J. Pappas, Florian Tramer, Hamed Hassani, Eric Wong.* Mar 2024.
 - ****[HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal.](https://arxiv.org/abs/2402.04249)** *Mantas Mazeika, Long Phan, Xuwang Yin, Andy Zou, Zifan Wang, Norman Mu, Elham Sakhaee, Nathaniel Li, Steven Basart, Bo Li, David Forsyth, Dan Hendrycks.* Feb 2024.
 - **[Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models](https://arxiv.org/abs/2307.08487).** *Huachuan Qiu, Shuai Zhang, Anqi Li, Hongliang He, Zhenzhong Lan.* Jul 2023
 
@@ -46,13 +46,13 @@ This is my ([Zhakshylyk Nurlanov](https://nurlanov.me/)) curated collection of p
 
 ### Manual jailbreak studies
 
-- ****["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://arxiv.org/abs/2308.03825).** *Xinyue Shen, Zeyuan Chen, Michael Backes, Yun Shen, Yang Zhang.* Aug 2023.
+- ****["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models.](https://arxiv.org/abs/2308.03825)** *Xinyue Shen, Zeyuan Chen, Michael Backes, Yun Shen, Yang Zhang.* Aug 2023.
 - **[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** *Alexander Wei, Nika Haghtalab, Jacob Steinhardt.* (Jul 2023) NeurIPS 2023.
 
 ### Gradient-based attacks
 
-- ****[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043).** *Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, Matt Fredrikson.* Jul 2023.
-- ****[Coercing LLMs to do and reveal (almost) anything](https://arxiv.org/abs/2402.14020).** *Jonas Geiping, Alex Stein, Manli Shu, Khalid Saifullah, Yuxin Wen, Tom Goldstein.* Feb 2024.
+- ****[Universal and Transferable Adversarial Attacks on Aligned Language Models.](https://arxiv.org/abs/2307.15043)** *Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, Matt Fredrikson.* Jul 2023.
+- ****[Coercing LLMs to do and reveal (almost) anything.](https://arxiv.org/abs/2402.14020)** *Jonas Geiping, Alex Stein, Manli Shu, Khalid Saifullah, Yuxin Wen, Tom Goldstein.* Feb 2024.
 - **[Attacking Large Language Models with Projected Gradient Descent](https://arxiv.org/abs/2402.09154)**. *Simon Geisler, Tom Wollschläger, M. H. I. Abdalla, Johannes Gasteiger, Stephan Günnemann.* Feb 2024.
 - **[From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings](https://arxiv.org/abs/2402.16006)**. *Hao Wang, Hao Li, Minlie Huang, Lei Sha.* Feb 2024.
 - **[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)** *Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt.* NeurIPS 2023.
@@ -80,8 +80,8 @@ This is my ([Zhakshylyk Nurlanov](https://nurlanov.me/)) curated collection of p
 
 ### Model-guided attacks
 
-- ****[Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://arxiv.org/abs/2312.02119)**. *Anay Mehrotra, Manolis Zampetakis, Paul Kassianik, Blaine Nelson, Hyrum Anderson, Yaron Singer, Amin Karbasi.* Dec 2023.
-- ****[All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks](https://arxiv.org/abs/2401.09798).** *Kazuhiro Takemoto.* (Jan 2023) Feb 2024.
+- ****[Tree of Attacks: Jailbreaking Black-Box LLMs Automatically.](https://arxiv.org/abs/2312.02119)** *Anay Mehrotra, Manolis Zampetakis, Paul Kassianik, Blaine Nelson, Hyrum Anderson, Yaron Singer, Amin Karbasi.* Dec 2023.
+- ****[All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks.](https://arxiv.org/abs/2401.09798)** *Kazuhiro Takemoto.* (Jan 2023) Feb 2024.
 - ****[Jailbreaking Black Box Large Language Models in Twenty Queries.](https://arxiv.org/abs/2310.08419)** *Patrick Chao, Alexander Robey, Edgar Dobriban, Hamed Hassani, George J. Pappas, Eric Wong.* (Oct 2023) R0-FoMo Workshop NeurIPS 2023  
 - **[MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)**. *Gelei Deng, Yi Liu, Yuekang Li, Kailong Wang, Ying Zhang, Zefeng Li, Haoyu Wang, Tianwei Zhang, Yang Liu.* (Jul, Oct 2023) NDSS 2024.
 - **[Eliciting Language Model Behaviors using Reverse Language Models](https://openreview.net/forum?id=m6xyTie61H).** *Jacob Pfau, Alex Infanger, Abhay Sheshadri, Ayush Panda, Julian Michael, Curtis Huebner.* SoLaR Workshop NeurIPS 2023.
