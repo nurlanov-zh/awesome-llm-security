@@ -65,16 +65,16 @@ This is my ([Zhakshylyk Nurlanov](https://nurlanov.me/)) curated collection of p
 - ****Practical Black-Box Adversarial Attacks on Aligned Language Models.** *Zhakshylyk Nurlanov, Frank R. Schmidt, Florian Bernard.* Feb 2024
 - ****[Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks.](https://arxiv.org/abs/2404.02151)** *Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion.* Apr 2024.
 - **[Query-Based Adversarial Prompt Generation.](https://arxiv.org/abs/2402.12329)** *Jonathan Hayase, Ema Borevkovic, Nicholas Carlini, Florian Tramèr, Milad Nasr.* Feb 2024
-- [**Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf).** *Maksym Andriushchenko.* Dec 2023.
+- **[Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf).** *Maksym Andriushchenko.* Dec 2023.
 - **[PAL: Proxy-Guided Black-Box Attack on Large Language Models](https://arxiv.org/abs/2402.09674)**. *Chawin Sitawarin, Norman Mu, David Wagner, Alexandre Araujo.* Feb 2024.
 - **[Black Box Adversarial Prompting for Foundation Models](https://arxiv.org/abs/2302.04237).** *Natalie Maus, Patrick Chao, Eric Wong, Jacob Gardner.* (Feb 2023) May 2023.
-- **[BERT-ATTACK: Adversarial Attack Against BERT Using BERT.**](https://arxiv.org/abs/2004.09984) *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu.* EMNLP 2020.
+- **[BERT-ATTACK: Adversarial Attack Against BERT Using BERT.](https://arxiv.org/abs/2004.09984)** *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu.* EMNLP 2020.
 - **[Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples.](https://arxiv.org/abs/2009.06368)** *Jin Yong Yoo, John X. Morris, Eli Lifland, Yanjun Qi.* EMNLP BlackBox NLP Workshop 2020.
 - **[TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP](https://arxiv.org/abs/2005.05909).** *John X. Morris, Eli Lifland, Jin Yong Yoo, Jake Grigsby, Di Jin, Yanjun Qi.* EMNLP 2020.
 
 ### Genetic algorithms
 
-- [**Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/abs/2309.01446).** *Raz Lapid, Ron Langberg, Moshe Sipper.* Sep 2023
+- **[Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/abs/2309.01446).** *Raz Lapid, Ron Langberg, Moshe Sipper.* Sep 2023
 - **[Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers](https://arxiv.org/abs/2309.08532).** *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang.* ICLR 2024.
 - **[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451).** *Xiaogeng Liu, Nan Xu, Muhao Chen, Chaowei Xiao.* ICLR 2024.
 
